@@ -1,0 +1,1 @@
+一定要用hash table 和 linked list
